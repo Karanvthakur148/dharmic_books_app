@@ -1,0 +1,12 @@
+{
+  "serverError": "Server Error",
+  "somethingWentwrong": "Something Went Wrong",
+  "invalidError": "Invalid Data",
+  "login": "Login",
+  "enter_your_email_and_password": "Enter your email and password below to access",
+  "email": "Email",
+  "hint_email": "Enter your email",
+  "password": "Password",
+  "enter_your_password": "Enter your password",
+  "forgot_password": "Forgot Password"
+}

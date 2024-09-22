@@ -1,0 +1,11 @@
+{
+  "appTitle": "Quran",
+  "subTitle": "Quran",
+  "androidAppId": "com.folkslogic.quran",
+  "iosAppId": "com.folkslogic.quran",
+  "baseUrl": "https://api.alquran.cloud",
+  "imagaBaseUrl": "",
+  "showNetworkLogs": true,
+  "QuranBaseAsset": "assets/images/",
+  "accessToken": ""
+}

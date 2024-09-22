@@ -1,0 +1,13 @@
+{
+  "serverError": "خطأ في الخادم",
+  "somethingWentwrong": "حدث خطأ ما",
+  "invalidError": "بيانات غير صالحة",
+  "login": "تسجيل الدخول",
+  "enter_your_email_and_password": "أدخل بريدك الإلكتروني وكلمة المرور أدناه للوصول",
+  "email": "البريد الإلكتروني",
+  "hint_email": "أدخل بريدك الإلكتروني",
+  "password": "كلمة المرور",
+  "enter_your_password": "أدخل كلمة المرور الخاصة بك",
+  "forgot_password": "نسيت كلمة المرور"
+
+}
